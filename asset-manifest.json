@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-hatex/static/css/main.edee5d30.css",
+    "main.js": "/web-hatex/static/js/main.e289db72.js",
+    "index.html": "/web-hatex/index.html",
+    "main.edee5d30.css.map": "/web-hatex/static/css/main.edee5d30.css.map",
+    "main.e289db72.js.map": "/web-hatex/static/js/main.e289db72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edee5d30.css",
+    "static/js/main.e289db72.js"
+  ]
+}
